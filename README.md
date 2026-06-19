@@ -11,6 +11,7 @@ Each entry targets Fiber internals, concurrent features, hydration mechanics, Se
 | Day | Topic | Date |
 |-----|-------|------|
 | [Day 01](lessons/day-01-useSyncExternalStore-vs-useEffect-subscription-model.md) | `useSyncExternalStore` vs. `useEffect` Subscription Model: Tearing, Concurrent Renders & the Scheduler Contract | 2026-06-19 |
+| [Day 02](lessons/day-02-startTransition-scheduler-lane-bitmask-internals.md) | `startTransition` & Scheduler Lane Bitmask Internals: Interruptible Rendering, Priority Inversion & Concurrent Opt-In Costs | 2026-06-19 |
 
 ---
 
