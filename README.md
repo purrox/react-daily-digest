@@ -16,6 +16,7 @@ Each entry targets Fiber internals, concurrent features, hydration mechanics, Se
 | [Day 04](lessons/day-04-selective-hydration-suspense-priority-queue-mismatch-taxonomy.md) | React 18 Selective Hydration: Suspense as Priority Units, the Hydration Work Loop & Mismatch Taxonomy | 2026-06-20 |
 | [Day 05](lessons/day-05-react-memo-fiber-bailout-context-propagation-defeat.md) | `React.memo` Internals: Fiber Bail-out in `beginWork`, the `REACT_MEMO_TYPE` Chain & Context Propagation Defeating Memoization | 2026-06-21 |
 | [Day 06](lessons/day-06-useDeferredValue-deferred-lane-stale-closure-trap.md) | `useDeferredValue`: Urgent/Deferred Render Passes, `DeferredLane` Assignment & the Stale-Closure Trap in Concurrent Trees | 2026-06-22 |
+| [Day 07](lessons/day-07-custom-scheduler-cooperative-yielding-workloop-anatomy.md) | Custom Scheduler Internals: Cooperative Yielding, the `workLoop` Anatomy & Frame-Budget-Aware Task Queue | 2026-06-22 |
 
 ---
 
